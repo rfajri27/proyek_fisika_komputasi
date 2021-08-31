@@ -1,2 +1,2 @@
-# proyek_fisika_komputasi
+# Kumpulan Proyek Fisika Komputasi
 Menyelesaikan problem fisika dengan pendekatan numerik.
