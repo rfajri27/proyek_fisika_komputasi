@@ -1,15 +1,11 @@
 # Proyek Fisika Komputasi
 
-Repository ini merupakan kumpulan proyek penyelesaikan problem fisika 
+Repository ini merupakan kumpulan proyek menyelesaikan problem fisika 
 dengan pendekatan numerik.
 
 ## Penyelesaian Persamaan Diferensial
-<details>
-    <summary>Gerak Harmonik Sederhana</summary>
-    <br>
-</details>
 
-<details>
-    <summary>Gerak Harmonik Teredam</summary>
-    <br>
-</details>
+### Gerak Harmonik Sederhana
+
+
+### Gerak Harmonik Teredam
