@@ -7,7 +7,7 @@ dengan pendekatan numerik.
 
 ## Penyelesaian Persamaan Diferensial
 
-### Gerak Harmonik Sederhana
+### [Gerak Harmonik Sederhana](https://github.com/rfajri27/proyek_fisika_komputasi/blob/main/GHS/GHS1.ipynb)
 
 
-### Gerak Harmonik Teredam
+### [Gerak Harmonik Teredam]()
