@@ -4,6 +4,7 @@ Repository ini merupakan kumpulan proyek menyelesaikan problem fisika
 dengan pendekatan numerik.
 
 ## Tutorial Python
+### [Fundamental]()
 
 ## Penyelesaian Persamaan Diferensial
 
