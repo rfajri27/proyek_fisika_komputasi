@@ -6,6 +6,8 @@ dengan pendekatan numerik.
 ## Tutorial Python
 ### [Fundamental]()
 
+## [Tutorial Matlab](https://github.com/rfajri27/proyek_fisika_komputasi/tree/main/tutorial-matlab)
+
 ## Penerapan Metode Numerik
 
 <details>
