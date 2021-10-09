@@ -3,13 +3,13 @@
 Repository ini merupakan kumpulan proyek menyelesaikan problem fisika 
 dengan pendekatan numerik.
 
-
-## Tutorial Python
+## Tutorial Pemrograman
+### [Bahasa Pemrograman Python](https://github.com/rfajri27/proyek_fisika_komputasi/tree/main/tutorial_python)
 <details>
 <summary>Fundamental</summary>
 </details>
 
-## [Tutorial Matlab](https://github.com/rfajri27/proyek_fisika_komputasi/tree/main/tutorial-matlab)
+### [Bahasa Pemrograman Matlab](https://github.com/rfajri27/proyek_fisika_komputasi/tree/main/tutorial-matlab)
 
 ## Penerapan Metode Numerik
 
