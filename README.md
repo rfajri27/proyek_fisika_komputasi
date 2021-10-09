@@ -3,8 +3,11 @@
 Repository ini merupakan kumpulan proyek menyelesaikan problem fisika 
 dengan pendekatan numerik.
 
+
 ## Tutorial Python
-### [Fundamental]()
+<details>
+<summary>Fundamental</summary>
+</details>
 
 ## [Tutorial Matlab](https://github.com/rfajri27/proyek_fisika_komputasi/tree/main/tutorial-matlab)
 
