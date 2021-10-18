@@ -16,7 +16,7 @@ for i = 2:n
 end
 
 %membuat grafik
-plot(x, s, 'r', 'lineWidth', 4)
+plot(x, s, 'g', 'lineWidth', 4)
 title('Grafik Cos x');
 xlabel('Sudut');
 ylabel('Sin x');
