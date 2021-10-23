@@ -1,6 +1,6 @@
 clear;clc
 
-%hold on hold of
+%hold on hold off
 
 x = linspace(0, 2*pi, 100);
 y1 = sin(x);
