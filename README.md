@@ -3,12 +3,12 @@
 Repository ini berisi kumpulan proyek fisika komputasi & tutorial singkat bahasa pemrograman yang umum digunakan dalam proyek fisika komputasi.
 
 ## **Tutorial Pemrograman**
-### [Bahasa Pemrograman Python](https://github.com/rfajri27/proyek_fisika_komputasi/tree/main/tutorial_python)
+### Bahasa Pemrograman Python
 <details>
 <summary>Fundamental</summary>
 </details>
 
-### [Bahasa Pemrograman Matlab](https://github.com/rfajri27/proyek_fisika_komputasi/tree/main/tutorial-matlab/)
+### Bahasa Pemrograman Matlab
 
 <details>
 <summary>Fundamental</summary>
