@@ -1,9 +1,8 @@
-# Proyek Fisika Komputasi
+# **Proyek Fisika Komputasi**
 
-Repository ini merupakan kumpulan proyek menyelesaikan problem fisika 
-dengan pendekatan numerik.
+Repository ini berisi kumpulan proyek fisika komputasi & tutorial singkat bahasa pemrograman yang umum digunakan dalam proyek fisika komputasi.
 
-## Tutorial Pemrograman
+## **Tutorial Pemrograman**
 ### [Bahasa Pemrograman Python](https://github.com/rfajri27/proyek_fisika_komputasi/tree/main/tutorial_python)
 <details>
 <summary>Fundamental</summary>
@@ -57,7 +56,7 @@ dengan pendekatan numerik.
 3. [Shell Script](https://dagshub.com/blog/effective-linux-bash-data-scientists/)
 4. Competitive Programming: [Hackerrank](https://www.hackerrank.com/) | [Leetcode](https://leetcode.com/) | [Kattis](https://open.kattis.com/)
 
-## Penerapan Metode Numerik
+## **Penerapan Metode Numerik**
 
 <details>
 <summary>Penyelesaian Persamaan Diferensial</summary>
