@@ -9,7 +9,31 @@ dengan pendekatan numerik.
 <summary>Fundamental</summary>
 </details>
 
-### [Bahasa Pemrograman Matlab](https://github.com/rfajri27/proyek_fisika_komputasi/tree/main/tutorial-matlab)
+### [Bahasa Pemrograman Matlab](tutorial-matlab)
+
+<details>
+<summary>Fundamental</summary>
+
+- [Hello World](tutorial-matlab\hello_world.m)
+- [Input](tutorial-matlab\input_.m)
+- [Output `disp`](tutorial-matlab\disp_.m)
+</details>
+
+<details>
+<summary>Logika Kondisi</summary>
+
+- [Kondisi `if`](tutorial-matlab\ifStatement.m)
+
+</details>
+
+<details>
+<summary>Perulangan</summary>
+
+- [Perulangan `while`](tutorial-matlab\whileLoop.m)
+- [Perulangan `for`](tutorial-matlab\forLoop.m)
+
+</details>
+
 
 ## Penerapan Metode Numerik
 
